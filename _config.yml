@@ -23,13 +23,13 @@ google_scholar_stats_use_cdn : false
 author:
   name             : "Chengxuan Lyu (吕承轩)"
   avatar           : "chengxuan.jpeg"
-  bio              : ""
+  bio              : "Hii!"
   location         : "Wuhan"
   employer         : "Wuhan University"
   pubmed           : 
   googlescholar    : 
   email            : "chengxuan@whu.edu.cn"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  
   uri              :
   bitbucket        :
   codepen          :
@@ -43,7 +43,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "rayeren"
+  linkedin         : "chengxuan-lyu"
   dblp             : 
   orcid            : 
   pinterest        :
