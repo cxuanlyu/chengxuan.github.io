@@ -4,8 +4,7 @@
 - *2015.09 - 2019.06*, High School Affiliated to Renmin University of China, Beijing.
 - *2012.09 - 2015.06*, Branch of the High School Affiliated to Renmin University of China, Beijing.
 
-# 💬 Invited Talks
-- To be updated.
+
 
 # 💻 Internships
 - *2024.06 - 2024.09*, CITIC Bank, Beijing.
