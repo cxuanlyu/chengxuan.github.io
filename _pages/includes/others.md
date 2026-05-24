@@ -1,8 +1,8 @@
 
 # 📖 Educations
-- 2022.09 – 2026.06,  School of Mathematics and Statistics, Wuhan University
-- 2019.09 – 2022.06,  High School, The High School Affiliated to Renmin University of China, Beijing
-- 2016.09 – 2019.06,  Junior High, Branch High School Affiliated to Renmin University of China, Beijing
+- *2022.09 – 2026.06*,  School of Mathematics and Statistics, Wuhan University
+- *2019.09 – 2022.06*,  High School, The High School Affiliated to Renmin University of China, Beijing
+- *2016.09 – 2019.06*,  Junior High, Branch High School Affiliated to Renmin University of China, Beijing
 
 
 # 💻 Internships
